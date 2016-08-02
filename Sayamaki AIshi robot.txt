@@ -1,0 +1,1041 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2493322567",
+				["Bone"] = "right hand",
+				["Position"] = Vector(-8.88037109375, 0.42005157470703, 0.0009765625),
+				["ClassName"] = "bone",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "4203457898",
+				["Event"] = "weapon_class",
+				["Operator"] = "equal",
+				["Arguments"] = "weapon_fists@@1",
+				["Invert"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Alpha"] = 0.825,
+				["ClassName"] = "model",
+				["UniqueID"] = "346602554",
+				["Size"] = 0.4,
+				["Color"] = Vector(0, 178, 255),
+				["Bone"] = "right forearm",
+				["Model"] = "models/pac/default.mdl",
+				["Position"] = Vector(13.332275390625, 0.00055694580078125, 0.62451171875),
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Alpha"] = 0.825,
+				["ClassName"] = "model",
+				["UniqueID"] = "3690549503",
+				["Size"] = 0.4,
+				["Color"] = Vector(0, 178, 255),
+				["Bone"] = "left forearm",
+				["Model"] = "models/pac/default.mdl",
+				["Position"] = Vector(13.332275390625, 0.00055694580078125, 0.62451171875),
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "1315148710",
+				["Bone"] = "left hand",
+				["Position"] = Vector(-7.176025390625, 0.385009765625, 0.80419921875),
+				["ClassName"] = "bone",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "127857955",
+				["Model"] = "models/pac/default.mdl",
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "2279529608",
+		["ClassName"] = "group",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "3325685576",
+				["Color"] = Vector(0, 0, 0),
+				["Size"] = 0.3,
+				["Model"] = "models/pac/default.mdl",
+				["Position"] = Vector(0.51567077636719, -0.0029048919677734, -5.1981201171875),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "3397938520",
+				["Model"] = "models/pac/default.mdl",
+				["Size"] = 0.05,
+				["Position"] = Vector(2.6340000629425, -4.2090001106262, -2.9630000591278),
+				["Brightness"] = 515.4,
+				["Angles"] = Angle(0, 0, 0.80000001192093),
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(2.1619999408722, -4.664999961853, -2.5390000343323),
+				["Model"] = "models/pac/default.mdl",
+				["Size"] = 0.03,
+				["Brightness"] = 515.4,
+				["UniqueID"] = "2454758402",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(1.8680000305176, -4.6789999008179, 2.1669921875),
+				["Model"] = "models/pac/default.mdl",
+				["Size"] = 0.03,
+				["Brightness"] = 515.4,
+				["UniqueID"] = "1802211288",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Color"] = Vector(0, 208, 255),
+						["ClassName"] = "light",
+						["UniqueID"] = "228404669",
+					},
+				},
+			},
+			["self"] = {
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "1261596002",
+				["Size"] = 0.05,
+				["Color"] = Vector(0, 191, 255),
+				["EditorExpand"] = true,
+				["Brightness"] = 65.8,
+				["Position"] = Vector(5.6660766601563, -1.4044494628906, -8.2059326171875),
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2229730660",
+						["Size"] = 0.55,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2940813123",
+						["Bone"] = "prp coat front  1 right",
+						["Size"] = 0.925,
+						["Position"] = Vector(2.059814453125, 0.001953125, 0.00390625),
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "455223465",
+						["Bone"] = "prp coat front  1 left",
+						["Position"] = Vector(-0.00146484375, -0.813232421875, 0.0029296875),
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["ClassName"] = "model",
+				["UniqueID"] = "715715163",
+				["Size"] = 1.025,
+				["Color"] = Vector(0, 0, 0),
+				["Bone"] = "spine 2",
+				["Model"] = "models/pac/jiggle/clothing/base_trench_1_gravity.mdl",
+				["Angles"] = Angle(-8.9584350585938, 86.820732116699, 90.552551269531),
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-13.066993713379, 76.213485717773, -161.89492797852),
+				["Position"] = Vector(0.87334823608398, -0.84341430664063, -6.5048828125),
+				["ClassName"] = "model",
+				["Size"] = 0.05,
+				["Model"] = "models/PHXtended/bar2x45b.mdl",
+				["UniqueID"] = "3623950930",
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(0.31845092773438, 0.02587890625, 0.01995849609375),
+				["ClassName"] = "model",
+				["UniqueID"] = "31950229",
+				["Size"] = 0.1,
+				["Color"] = Vector(0, 0, 0),
+				["Bone"] = "left forearm",
+				["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+				["Angles"] = Angle(89.106986999512, -0.0015338504454121, -0.0010956117184833),
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "3524060604",
+				["Size"] = 0.325,
+				["Color"] = Vector(0, 208, 255),
+				["Bone"] = "right elbow",
+				["Brightness"] = 54.9,
+				["Position"] = Vector(0.48583984375, 0.12109375, 0.56640625),
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(0.53997802734375, 1.051025390625, 0.5765380859375),
+				["ClassName"] = "model",
+				["UniqueID"] = "739537285",
+				["Size"] = 0.1,
+				["Color"] = Vector(0, 0, 0),
+				["Bone"] = "right upperarm",
+				["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+				["Angles"] = Angle(89.106986999512, -0.0015338504454121, -0.0010956117184833),
+			},
+		},
+		[11] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "242206374",
+				["Size"] = 0.325,
+				["Color"] = Vector(0, 208, 255),
+				["Bone"] = "left elbow",
+				["Brightness"] = 24.3,
+				["Position"] = Vector(-0.244140625, -0.18798828125, -0.38916015625),
+			},
+		},
+		[12] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(0.32904052734375, 0.652099609375, -0.692626953125),
+				["ClassName"] = "model",
+				["UniqueID"] = "403732220",
+				["Size"] = 0.1,
+				["Color"] = Vector(0, 0, 0),
+				["Bone"] = "left upperarm",
+				["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+				["Angles"] = Angle(89.106986999512, -0.0015338504454121, -0.0010956117184833),
+			},
+		},
+		[13] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(2.4210000038147, -4.4499998092651, 1.784423828125),
+				["Model"] = "models/pac/default.mdl",
+				["Size"] = 0.05,
+				["Brightness"] = 515.4,
+				["UniqueID"] = "2077144867",
+			},
+		},
+		[14] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "318788469",
+				["Color"] = Vector(0, 0, 0),
+				["Size"] = 0.3,
+				["Model"] = "models/pac/default.mdl",
+				["Position"] = Vector(0.53323364257813, -0.00080108642578125, 4.2816162109375),
+			},
+		},
+		[15] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(0.3055419921875, 0.3829345703125, 0.573974609375),
+				["ClassName"] = "model",
+				["UniqueID"] = "91477451",
+				["Size"] = 0.1,
+				["Color"] = Vector(0, 0, 0),
+				["Bone"] = "right forearm",
+				["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+				["Angles"] = Angle(89.106986999512, -0.0015338504454121, -0.0010956117184833),
+			},
+		},
+		[16] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Size"] = 0.525,
+				["Bone"] = "spine 1",
+				["UniqueID"] = "846273696",
+				["ClassName"] = "bone",
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "1139777179",
+		["ClassName"] = "group",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "light",
+						["Size"] = 17.75,
+						["Color"] = Vector(0, 169, 255),
+						["Position"] = Vector(1.5595703125, 0.54296875, 24.046875),
+						["UniqueID"] = "2166652491",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2406134564",
+				["Material"] = "models/debug/debugwhite",
+				["EditorExpand"] = true,
+				["Alpha"] = 0.775,
+				["ClassName"] = "model",
+				["Size"] = 2.2,
+				["Angles"] = Angle(-52.709575653076, -107.11775970459, -74.003005981445),
+				["Color"] = Vector(0, 191, 255),
+				["Bone"] = "right forearm",
+				["Model"] = "models/weapons/w_knife_t.mdl",
+				["Position"] = Vector(-3.689453125, 1.7041015625, -1.421875),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "1404132801",
+				["Event"] = "weapon_class",
+				["Operator"] = "equal",
+				["Arguments"] = "weapon_crowbar@@1",
+				["Invert"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "bone",
+				["UniqueID"] = "3339179089",
+				["Bone"] = "right hand",
+				["Size"] = -0.075,
+				["Position"] = Vector(-7.6259765625, 1.0771484375, 0.84228515625),
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(5.421462628874e-005, -18.833255767822, -16.813480377197),
+				["Bone"] = "spine 2",
+				["UniqueID"] = "2389925629",
+				["ClassName"] = "bone",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-1.4514153008349e-005, 5.3658146858215, -1.366037849948e-005),
+				["UniqueID"] = "3450628212",
+				["ClassName"] = "bone",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "automatic group",
+		["ClassName"] = "group",
+		["UniqueID"] = "1192398390",
+		["Description"] = "Please put your parts in groups!",
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(17.800163269043, 16.66752243042, 5.2293643951416),
+				["Bone"] = "left calf",
+				["UniqueID"] = "2495923969",
+				["ClassName"] = "bone",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "2278286984",
+				["Bone"] = "right hand",
+				["Position"] = Vector(-10.1298828125, 0.001953125, -0.00048828125),
+				["ClassName"] = "bone",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Position"] = Vector(8.70556640625, -0.3701171875, 0.48876953125),
+				["Size"] = 0.325,
+				["Bone"] = "right forearm",
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "2759474813",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-11.583442687988, -42.21019744873, 4.7171034812927),
+				["Bone"] = "left upperarm",
+				["UniqueID"] = "888887207",
+				["ClassName"] = "bone",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(28.676698684692, -28.810287475586, 6.118483543396),
+				["Bone"] = "right upperarm",
+				["UniqueID"] = "3810397186",
+				["ClassName"] = "bone",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "141883252",
+				["Event"] = "weapon_class",
+				["Operator"] = "equal",
+				["Arguments"] = "weapon_smg1@@1",
+				["Invert"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-8.5377369032358e-006, 30.382577896118, 2.2198115402716e-005),
+				["Bone"] = "spine 2",
+				["UniqueID"] = "1573324369",
+				["ClassName"] = "bone",
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(32.10132598877, -2.0157335711701e-006, 3.8148735370669e-007),
+				["Bone"] = "invalidbone",
+				["UniqueID"] = "2187106389",
+				["ClassName"] = "bone",
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(35.789974212646, -92.858055114746, 19.235933303833),
+				["Bone"] = "left forearm",
+				["UniqueID"] = "328672316",
+				["ClassName"] = "bone",
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-26.952014923096, 1.676157444308e-005, -3.0649734981125e-005),
+				["Bone"] = "right calf",
+				["UniqueID"] = "746870248",
+				["ClassName"] = "bone",
+			},
+		},
+		[11] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-17.430477142334, 1.1073952919105e-005, 8.9486475189915e-006),
+				["Bone"] = "left thigh",
+				["UniqueID"] = "1666500195",
+				["ClassName"] = "bone",
+			},
+		},
+		[12] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(18.505109786987, -5.8557276725769, 6.7636879975908e-005),
+				["Bone"] = "right thigh",
+				["UniqueID"] = "1909344796",
+				["ClassName"] = "bone",
+			},
+		},
+		[13] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-9.9037744803354e-005, 4.6809892654419, 103.35032653809),
+				["UniqueID"] = "3137457638",
+				["Position"] = Vector(7.9482421875, 0.921875, -0.3720703125),
+				["Bone"] = "right forearm",
+				["Model"] = "models/weapons/w_smg1.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[14] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(22.022298812866, -70.142585754395, -7.3677551881701e-006),
+				["Bone"] = "right forearm",
+				["UniqueID"] = "3935429629",
+				["ClassName"] = "bone",
+			},
+		},
+		[15] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(6.4851722717285, 33.782009124756, -32.179538726807),
+				["UniqueID"] = "960505328",
+				["ClassName"] = "bone",
+			},
+		},
+		[16] = {
+			["children"] = {
+			},
+			["self"] = {
+				["WeaponHoldType"] = "normal",
+				["ClassName"] = "animation",
+				["UniqueID"] = "1887380567",
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "3001116508",
+		["ClassName"] = "group",
+	},
+},
+[5] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Outline"] = 0.2,
+				["UniqueID"] = "2255028141",
+				["Angles"] = Angle(-88.294410705566, -20.740358352661, -85.463325500488),
+				["Size"] = 0.1,
+				["Position"] = Vector(4.1650390625, 6.0570001602173, 0.23779296875),
+				["Color"] = Vector(0, 208, 255),
+				["Bone"] = "spine 2",
+				["ClassName"] = "text",
+				["Text"] = "sayamaki aishi",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["UniqueID"] = "462854528",
+				["Color"] = Vector(0.5, 0.5, 1),
+				["Material"] = "models/debug/debugwhite",
+				["Brightness"] = 535.1,
+				["DrawOrder"] = 1,
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "2324455716",
+		["ClassName"] = "group",
+	},
+},
+[6] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(86.228622436523, -44.678100585938, 39.627998352051),
+				["ClassName"] = "model",
+				["UniqueID"] = "2828059988",
+				["Size"] = 0.475,
+				["Color"] = Vector(255, 221, 204),
+				["Position"] = Vector(-84.402862548828, -8.933837890625, -3.752685546875),
+				["Model"] = "https://raw.githubusercontent.com/Unknow77/Noting-/master/gumi%20face.obj",
+				["Material"] = "models/ihvtest/eyeball_l",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "1301582642",
+				["Color"] = Vector(0, 0, 0),
+				["Size"] = 0.15,
+				["Model"] = "models/pac/default.mdl",
+				["Position"] = Vector(3.9547729492188, 6.92333984375, 1.1770629882813),
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(83.715713500977, -120.62157440186, -38.016067504883),
+				["ClassName"] = "model",
+				["UniqueID"] = "745825976",
+				["Size"] = 0.425,
+				["Color"] = Vector(0, 131, 255),
+				["Position"] = Vector(-79.186721801758, -10.047607421875, 5.15673828125),
+				["Model"] = "https://raw.githubusercontent.com/Unknow77/Noting-/master/hair.obj",
+				["Material"] = "models/ihvtest/eyeball_l",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Position"] = Vector(4.1795768737793, 5.8139038085938, 0.05029296875),
+				["Model"] = "models/props_c17/streetsign005b.mdl",
+				["Angles"] = Angle(87.612762451172, 133.6990814209, 153.22903442383),
+				["ClassName"] = "model",
+				["Size"] = 0.275,
+				["Material"] = "models/ihvtest/eyeball_l",
+				["Color"] = Vector(0, 131, 255),
+				["Bone"] = "spine 2",
+				["Brightness"] = -26.7,
+				["UniqueID"] = "116386531",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "2278036021",
+						["Bone"] = "j 1",
+						["Size"] = 1.3,
+						["Position"] = Vector(0.22314453125, 1.2371826171875, 0.894775390625),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "83624747",
+						["Bone"] = "j 8",
+						["Size"] = -0.225,
+						["Position"] = Vector(-0.000274658203125, 0.000244140625, 5.0893859863281),
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.475,
+						["Bone"] = "j 4",
+						["UniqueID"] = "2583418156",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 2.05,
+						["Bone"] = "j 6",
+						["UniqueID"] = "1566543000",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.725,
+						["Bone"] = "j 7",
+						["UniqueID"] = "3402106786",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.775,
+						["Bone"] = "j 5",
+						["UniqueID"] = "504410605",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.65,
+						["Bone"] = "j 3",
+						["UniqueID"] = "1960820983",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 1.575,
+						["Bone"] = "j 2",
+						["UniqueID"] = "1853812935",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["UniqueID"] = "1200108213",
+						["Size"] = 0.2,
+						["Angles"] = Angle(11.905464172363, 2.0678403377533, -19.956909179688),
+						["Position"] = Vector(0.386962890625, -0.534912109375, -0.33544921875),
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "3532402873",
+				["Angles"] = Angle(-5.0147290229797, 44.295135498047, -101.97179412842),
+				["Color"] = Vector(0, 131, 255),
+				["Position"] = Vector(3.5039672851563, 5.831298828125, 0.38079833984375),
+				["Model"] = "models/pac/jiggle/base_jiggle_1_gravity.mdl",
+				["Material"] = "models/ihvtest/eyeball_l",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(86.228981018066, -44.377998352051, 39.506999969482),
+				["ClassName"] = "model",
+				["UniqueID"] = "1039212749",
+				["Size"] = 0.475,
+				["Color"] = Vector(0, 0, 0),
+				["Position"] = Vector(-84.306274414063, -9.7998046875, -3.9063720703125),
+				["Model"] = "https://raw.githubusercontent.com/Unknow77/Noting-/master/gumi%20eyes%2Bmouth%2Beye%20brows%2Blashes.obj",
+				["Material"] = "models/ihvtest/eyeball_l",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "bone",
+				["UniqueID"] = "2593449502",
+				["Size"] = 0.075,
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "2188491129",
+		["ClassName"] = "group",
+	},
+},
+[7] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "1955633528",
+						["Color"] = Vector(195, 0, 255),
+						["Position"] = Vector(-2.1314697265625, 0.1748046875, 1.21484375),
+						["Model"] = "models/pac/jiggle/base_cloth_2.mdl",
+						["Angles"] = Angle(68.911781311035, -4.2711821151897e-005, -174.66539001465),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Alpha"] = 0.675,
+						["ClassName"] = "model",
+						["UniqueID"] = "1717579128",
+						["Material"] = "trails/plasma",
+						["Color"] = Vector(225, 0, 255),
+						["Size"] = 0.1,
+						["Model"] = "models/hunter/tubes/tube2x2x4.mdl",
+						["Angles"] = Angle(-89.554008483887, -179.99830627441, 179.99830627441),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-17.092441558838, -179.99992370605, 179.99998474121),
+				["UniqueID"] = "3842778478",
+				["Position"] = Vector(16.98681640625, -0.713623046875, -4.1142578125),
+				["EditorExpand"] = true,
+				["Bone"] = "right hand",
+				["Model"] = "models/weapons/w_shotgun.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "4240174313",
+				["Event"] = "weapon_class",
+				["Operator"] = "equal",
+				["Arguments"] = "weapon_asmd@@1",
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "88605008",
+		["ClassName"] = "group",
+	},
+},
+[8] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-81.60546875, 118.08369445801, -24.999441146851),
+				["UniqueID"] = "1146078307",
+				["Position"] = Vector(3.5294494628906, 5.2455444335938, -3.2969360351563),
+				["Size"] = 0.275,
+				["Bone"] = "right hand",
+				["Model"] = "models/hunter/blocks/cube075x1x075.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "50839057",
+				["Event"] = "weapon_class",
+				["Operator"] = "equal",
+				["Arguments"] = "weapon_rpg@@1",
+				["Invert"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "507971439",
+		["ClassName"] = "group",
+	},
+},
+[9] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "3417016634",
+				["Event"] = "weapon_class",
+				["Operator"] = "equal",
+				["Arguments"] = "none@@1",
+				["Invert"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-1.4514153008349e-005, 5.3658146858215, -1.366037849948e-005),
+				["UniqueID"] = "1860312496",
+				["ClassName"] = "bone",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "automatic group",
+		["ClassName"] = "group",
+		["UniqueID"] = "4217557692",
+		["Description"] = "Please put your parts in groups!",
+	},
+},
+[10] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["UniqueID"] = "3096682727",
+				["Bone"] = "right finger 01",
+				["Position"] = Vector(-1.110595703125, 2.03125, -1.080078125),
+				["ClassName"] = "bone",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(2.4981126785278, 0.022723438218236, 0.52171903848648),
+				["Position"] = Vector(-8.107421875, 0.0849609375, 3.15234375),
+				["Size"] = -0.75,
+				["Bone"] = "right hand",
+				["UniqueID"] = "519967664",
+				["ClassName"] = "bone",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "event",
+				["UniqueID"] = "2909668330",
+				["Event"] = "weapon_class",
+				["Operator"] = "equal",
+				["Arguments"] = "weapon_slam@@1",
+				["Invert"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(0.41271430253983, -89.999374389648, -90.083992004395),
+				["UniqueID"] = "1747522825",
+				["Position"] = Vector(8.49658203125, 0, 0.7529296875),
+				["Size"] = 0.4,
+				["Bone"] = "right forearm",
+				["Model"] = "models/weapons/w_slam.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(0.41271430253983, -89.999374389648, -90.083992004395),
+				["UniqueID"] = "2338202462",
+				["Position"] = Vector(10.888671875, 0.001953125, 0.7529296875),
+				["Size"] = 0.4,
+				["Bone"] = "right forearm",
+				["Model"] = "models/weapons/w_slam.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "2707750206",
+		["ClassName"] = "group",
+	},
+},
+[11] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EndPointName"] = "hitpos",
+				["Position"] = Vector(1.8708190917969, 0.091796875, -1.441650390625),
+				["Bend"] = 0,
+				["UniqueID"] = "2915220041",
+				["ClassName"] = "beam",
+				["Width"] = 7.5,
+				["WidthBend"] = 0.1,
+				["EndPointUID"] = "766323351",
+				["Angles"] = Angle(-1.0628356933594, 2.9887219170632e-006, -3.4156823858211e-006),
+				["Material"] = "trails/plasma",
+				["StartColor"] = Vector(255, 252, 255),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/pac/default.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "766323351",
+				["Material"] = "trails/plasma",
+				["Color"] = Vector(0, 199, 255),
+				["Bone"] = "hitpos",
+				["Name"] = "hitpos",
+				["Angles"] = Angle(23.559503555298, -180, -180),
+			},
+		},
+	},
+	["self"] = {
+		["UniqueID"] = "3621146614",
+		["ClassName"] = "group",
+	},
+},
