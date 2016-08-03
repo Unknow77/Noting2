@@ -1,0 +1,84 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(84.288230895996, 125.34245300293, -160.0315246582),
+				["ClassName"] = "model",
+				["UniqueID"] = "3227296639",
+				["Size"] = 0.399,
+				["Color"] = Vector(0, 0, 0),
+				["Position"] = Vector(-77.478996276855, -24.312999725342, 2.8889999389648),
+				["Model"] = "https://raw.githubusercontent.com/Unknow77/Noting-/master/brown.obj",
+				["Material"] = "models/ihvtest/eyeball_l",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(84.288230895996, 125.34245300293, -160.0315246582),
+				["ClassName"] = "model",
+				["UniqueID"] = "4000642503",
+				["Size"] = 0.399,
+				["Color"] = Vector(255, 220, 202),
+				["Position"] = Vector(-77.515380859375, -24.153076171875, 2.8854370117188),
+				["Model"] = "https://raw.githubusercontent.com/Unknow77/Noting-/master/skin.obj",
+				["Material"] = "models/ihvtest/eyeball_l",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(84.288230895996, 125.34245300293, -160.0315246582),
+				["ClassName"] = "model",
+				["UniqueID"] = "4000642503",
+				["Size"] = 0.399,
+				["Color"] = Vector(0, 12, 255),
+				["Position"] = Vector(-77.475997924805, -24.209999084473, 3.0360000133514),
+				["Model"] = "อhttps://raw.githubusercontent.com/Unknow77/Noting-/master/blue.obj",
+				["Material"] = "models/ihvtest/eyeball_l",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Size"] = 0.3,
+				["Position"] = Vector(3.374755859375, -2.02197265625, 2.37451171875),
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "2687844472",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Size"] = 0.3,
+				["Position"] = Vector(3.3743896484375, -1.56494140625, -1.7650146484375),
+				["Model"] = "models/pac/default.mdl",
+				["UniqueID"] = "3032872710",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "bone",
+				["UniqueID"] = "1989264981",
+				["Size"] = 0.2,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "972617604",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
